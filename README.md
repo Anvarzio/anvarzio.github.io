@@ -1,5 +1,6 @@
 # Welcome
 I’m a Computer Programming student focused on building practical software and real-world systems. This portfolio showcases my coursework and projects as I prepare to transfer and pursue advanced development work.
+![Profile](IMG%205206.jpg)
 
 ## About Me
 - Currently pursuing an A.S. in Computer Programming  
