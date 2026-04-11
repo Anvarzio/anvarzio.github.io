@@ -18,7 +18,7 @@ I’m a Computer Programming student focused on building practical software and 
 -TBD
 
 # Personal Projects
-## beSeated
+## beSeated (prototype / in development)
 "beSeated" is a Java application that assists restaurant hosts in seating customers based on table size, server rotation, section load, table availability, and customer preferences or exceptions such as large parties or requested seating. It is based on my experience at Applebee’s, where hosts have to make quick seating decisions while balancing fairness for servers, efficient table usage, and guest satisfaction.
 
 The program would keep track of restaurant sections, tables, and their attributes, such as seating capacity and tags like booth, high-top, wheelchair accessible, or movable. It would also account for which servers are working, how many tables or guests they currently have, and help recommend the best seating option for a new party. The overall goal is to make the seating process faster, more organized, and more consistent than relying only on memory or judgment in the moment.
