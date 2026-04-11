@@ -33,3 +33,7 @@ The program would keep track of restaurant sections, tables, and their attribute
 * Use JavaFX to build a visual interface (floor view, table status, host controls)
 * Allow hosts to select a recommended table, updating availability and rotation in real time
 
+### Program Structure:
+
+-
+
