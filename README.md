@@ -19,6 +19,17 @@ I’m a Computer Programming student focused on building practical software and 
 
 # Personal Projects
 ## beSeated
-- beSeated is a Java application that assists restaurant hosts in seating customers based on table size, server rotation, section load, table availability, and customer preferences or exceptions such as large parties or requested seating. It is based on my experience at Applebee’s, where hosts have to make quick seating decisions while balancing fairness for servers, efficient table usage, and guest satisfaction.
+"beSeated" is a Java application that assists restaurant hosts in seating customers based on table size, server rotation, section load, table availability, and customer preferences or exceptions such as large parties or requested seating. It is based on my experience at Applebee’s, where hosts have to make quick seating decisions while balancing fairness for servers, efficient table usage, and guest satisfaction.
 
 The program would keep track of restaurant sections, tables, and their attributes, such as seating capacity and tags like booth, high-top, wheelchair accessible, or movable. It would also account for which servers are working, how many tables or guests they currently have, and help recommend the best seating option for a new party. The overall goal is to make the seating process faster, more organized, and more consistent than relying only on memory or judgment in the moment.
+
+* Load table data from a JSON file (tableID, seats, tags like booth, high-top, accessibility)
+* Automatically group tables into sections based on tableID
+* Track current restaurant state (available/occupied tables, active servers, section load)
+* Input party details (size + preferences like booth or wheelchair access)
+* Filter tables that fit the party size and required tags
+* Apply basic server rotation and load balancing to choose fair seating
+* Output best table options with a simple explanation (console → later UI)
+* Use JavaFX to build a visual interface (floor view, table status, host controls)
+* Allow hosts to select a recommended table, updating availability and rotation in real time
+
