@@ -44,3 +44,7 @@ The program would keep track of restaurant sections, tables, and their attribute
 * tables.json – Stores table data (loaded into objects)
 * libs/ – External libraries (e.g., Gson for JSON parsing)
 
+## Concept UI
+
+<img src="01AF97EA-7A74-49CC-9A83-6A8710621957.jpg" width="40%">
+
