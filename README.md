@@ -33,7 +33,12 @@ The program would keep track of restaurant sections, tables, and their attribute
 * Use JavaFX to build a visual interface (floor view, table status, host controls)
 * Allow hosts to select a recommended table, updating availability and rotation in real time
 
-### Program Structure:
+### 📂 Program Structure:
 
--
+* Table.java – Table object (ID, seats, tags)
+* TableType.java – Enum for table types (booth, high-top, etc.)
+* TableTags.java – Enum for accommodations (wheelchair, toddler, etc.)
+* Tester.java – Main class for testing and running the program
+* tables.json – Stores table data (loaded into objects)
+* libs/ – External libraries (e.g., Gson for JSON parsing)
 
