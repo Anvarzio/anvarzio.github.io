@@ -46,5 +46,5 @@ The program would keep track of restaurant sections, tables, and their attribute
 
 ## Concept UI
 
-<img src="01AF97EA-7A74-49CC-9A83-6A8710621957.jpg" width="40%">
+<img src="bSeatedConceptArt.png" width="100%">
 
