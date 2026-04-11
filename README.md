@@ -11,8 +11,8 @@ I’m a Computer Programming student focused on building practical software and 
 
 - Strong foundation in C++ (control structures, functions, arrays, pointers, OOP)
 - Strong foundation in Java (OOP, inheritance, basic data structures)
-- 
-![Profile](01AF97EA-7A74-49CC-9A83-6A8710621957.jpg)
+
+<img src="01AF97EA-7A74-49CC-9A83-6A8710621957.jpg" width="40%">
 
 # Coursework
 -TBD
