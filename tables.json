@@ -1,0 +1,7 @@
+{
+  "tables": [
+    { "tableID": 101, "isBooth": true,  "isHighTop": false, "seats": 4 },
+    { "tableID": 102, "isBooth": false, "isHighTop": false, "seats": 2 },
+    { "tableID": 201, "isBooth": false, "isHighTop": true,  "seats": 4 }
+  ]
+}
