@@ -19,6 +19,16 @@ I’m a Computer Programming student focused on building practical software and 
 ## Numbers converter
 This program, written in C++, spells out any integer (up to 4 digits).
 
+[View C++ File](./C++Numbers/Numbers.cpp)
+[View C++ File](./C++Numbers/main.cpp)
+[View C++ File](./C++Numbers/Numbers.h)
+
+## Impulse App (Work in progress)
+Built using Swift and Xcode, this app is a smart task management system that helps users organize, prioritize, and complete tasks efficiently using deadlines and estimated completion times. It dynamically calculates urgency and visually highlights tasks so users always know what to focus on next. The app also includes an integrated AI assistant which can recommend priorities, break down tasks, and provide real-time guidance.
+
+
+
+
 
 # Personal Projects
 ## beSeated (prototype / in development)
