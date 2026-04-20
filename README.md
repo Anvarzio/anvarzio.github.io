@@ -15,7 +15,10 @@ I’m a Computer Programming student focused on building practical software and 
 <img src="01AF97EA-7A74-49CC-9A83-6A8710621957.jpg" width="40%">
 
 # Coursework
--TBD
+
+## Numbers converter
+This program, written in C++, spells out any integer (up to 4 digits).
+
 
 # Personal Projects
 ## beSeated (prototype / in development)
